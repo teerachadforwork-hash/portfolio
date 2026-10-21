@@ -88,4 +88,29 @@ export const projects: Project[] = [
     featured: true,
     image: '/images/img/hotelapp.png',
   },
+  {
+    id: 'project-6',
+    title: 'Personal Finance Management',
+    description:
+      'This application is designed to help users manage their personal finances more efficiently, making it easier for both users to handle day-to-day tasks. It provides a centralized platform for managing personal finance data, including room information, guest information, and service requests, aiming to improve convenience and organization in personal finance management.',
+    category: ['web'],
+    techStack: ['HTML', 'Tailwind', 'CSS', 'JavaScript', 'Bootstrap'],
+    role: 'Fullstack Developer',
+    githubUrl: 'https://github.com/teerachadforwork-hash/FinanceApp---Personal-Finance-Management',
+    featured: true,
+    image: '/images/img/manage finace.png',
+    liveUrl: 'https://finance-app-personal-finance-manage.vercel.app/'
+  },
+  {
+    id: 'project-7',
+    title: 'hypertension web ',
+    description:
+      'This Web site, a classroom project, is designed to monitor and manage blood pressure, helping users keep track of their health more easily. It provides a centralized platform for managing blood pressure data, including blood pressure readings, medication information, and health recommendations, aiming to improve convenience and organization in blood pressure management.',
+    category: ['web'],
+    techStack: ['HTML', 'Tailwind', 'CSS', 'JavaScript', 'GO lang', 'php'],
+    role: 'Fullstack Developer',
+    githubUrl: 'https://github.com/teerachadforwork-hash/hypertension-web',
+    featured: true,
+    image: '/images/img/hyper.jpg',
+  },
 ];

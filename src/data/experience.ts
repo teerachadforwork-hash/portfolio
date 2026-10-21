@@ -69,30 +69,28 @@ export const experiences: Experience[] = [
   {
     id: 'exp-4',
     type: 'research',
-    title: 'Data Analytics Research',
+    title: 'Performance Evaluation of Machine Learning Techniques for Hypertension Classification Using Clinical Data',
     organization: 'Faculty of Informatics, MSU',
     period: '2025',
     description:
-      'Conducted research on applying data analytics techniques to improve student academic performance prediction.',
+      'This study aims to evaluate the performance of various machine learning techniques in classifying hypertension using clinical data. The research focuses on comparing the accuracy and efficiency of different algorithms in predicting hypertension, providing insights into the most effective approaches for clinical decision support. The study utilizes a comprehensive dataset of clinical measurements, including blood pressure, heart rate, and other relevant health indicators, to train and evaluate the machine learning models.',
     highlights: [
-      'Collected and preprocessed academic performance data',
-      'Applied statistical analysis and visualization techniques',
-      'Produced research report with actionable recommendations',
+      'Collected and preprocessed clinical data for model training and evaluation',
+      'Applied various machine learning techniques to classify hypertension',
+      'Evaluated and compared the performance of different algorithms',
     ],
-    techStack: ['Python', 'Pandas', 'Power BI', 'Scikit-learn'],
+    techStack: ['Google Colab', 'Python', 'Power BI', 'Scikit-learn'],
   },
   {
     id: 'exp-5',
     type: 'activity',
-    title: 'IT Student Community Activities',
-    organization: 'Faculty of Informatics, MSU',
-    period: '2023 — Present',
+    title: 'Vice President of Information Technology Student Association',
+    organization: 'Information Technology',
+    period: '2023 — 2025',
     description:
-      'Active participant in department activities including workshops, hackathons, and community service projects.',
+      'Active Executive in student association activities.',
     highlights: [
-      'Attended AI and Data Science workshops',
-      'Participated in coding competitions',
-      'Helped organize faculty open house events',
+      'Organized various student activities',
     ],
   },
 ];

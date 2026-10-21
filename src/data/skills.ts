@@ -80,7 +80,7 @@ export const skillCategories: SkillCategory[] = [
       { name: 'TensorFlow', icon: 'Cpu' },
       { name: 'Scikit-learn', icon: 'Cog' },
       { name: 'NLP', icon: 'MessageSquare' },
-      { name: 'Computer Vision', icon: 'Eye' },
+      { name: 'PyTorch', icon: 'Eye' },
       { name: 'Prompt Engineering', icon: 'Sparkles' },
       { name: 'LLMs', icon: 'Bot' },
     ],

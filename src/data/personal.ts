@@ -4,7 +4,7 @@
 
 export const personalInfo = {
   name: {
-    first: 'Teerachat',
+    first: 'Teerachad',
     last: 'Phoonphut',
     thai: 'ธีระชาติ พูลพัฒน์',
   },
@@ -13,7 +13,7 @@ export const personalInfo = {
   bio: 'Passionate IT student at Mahasarakham University with a strong interest in Data Analytics, Artificial Intelligence, and Web Development. I love turning data into actionable insights and building modern web applications that solve real-world problems.',
   location: 'Maha Sarakham, Thailand',
   email: 'teerachad.forwork@gmail.com',
-  phone: '+66 XX-XXX-XXXX',
+  phone: '0983085298',
   resumeUrl: '#',
   social: {
     github: 'https://github.com/teerachadforwork-hash',
