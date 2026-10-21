@@ -19,7 +19,7 @@ export const personalInfo = {
     github: 'https://github.com/teerachadforwork-hash',
     linkedin: 'https://linkedin.com/in/teerachat-phoonphat-4653b5419',
   },
-  profileImage: 'public/images/profile/Profile.jpeg',
+  profileImage: '/images/profile/Profile.jpeg',
   education: {
     university: 'Mahasarakham University (MSU)',
     faculty: 'Faculty of Informatics',
@@ -28,7 +28,7 @@ export const personalInfo = {
     year: '4th Year',
     gpa: '3.52',
     period: '2023 — Present',
-    logo: 'public/images/certificates/MSULOGO.webp',
+    logo: '/images/certificates/MSULOGO.webp',
   },
   interests: [
     'Data Analytics',

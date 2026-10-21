@@ -37,7 +37,7 @@ export const projects: Project[] = [
     role: 'Fullstack Developer',
     liveUrl: 'https://otop-website-ji1y.vercel.app/',
     featured: true,
-    image: 'public/images/img/otop.png',
+    image: '/images/img/otop.png',
     githubUrl: 'https://github.com/teerachadforwork-hash/OTOP-website',
   },
   {
@@ -50,7 +50,7 @@ export const projects: Project[] = [
     role: 'Fullstack Developer',
     githubUrl: 'https://github.com/teerachadforwork-hash/dormitory-web/tree/main',
     featured: true,
-    image: 'public/images/img/dormitry.png',
+    image: '/images/img/dormitry.png',
   },
   {
     id: 'project-3',
@@ -62,7 +62,7 @@ export const projects: Project[] = [
     role: 'Fullstack Developer',
     githubUrl: 'https://github.com/teerachadforwork-hash/Agriculturist-web',
     featured: true,
-    image: 'public/images/img/farm.png',
+    image: '/images/img/farm.png',
   },
   {
     id: 'project-4',
@@ -74,7 +74,7 @@ export const projects: Project[] = [
     role: 'Fullstack Developer',
     githubUrl: 'https://github.com/teerachadforwork-hash/flowerwebsite/tree/main',
     featured: true,
-    image: 'public/images/img/flowerw web.png',
+    image: '/images/img/flowerw web.png',
   },
   {
     id: 'project-5',
@@ -86,6 +86,6 @@ export const projects: Project[] = [
     role: 'Mobile Developer',
     githubUrl: 'https://github.com/teerachadforwork-hash/HotelApp',
     featured: true,
-    image: 'public/images/img/hotelapp.png',
+    image: '/images/img/hotelapp.png',
   },
 ];
