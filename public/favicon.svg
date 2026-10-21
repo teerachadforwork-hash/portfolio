@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Floral Tech — ดอกไม้และเทคโนโลยี</title>
+  <desc id="desc">A six-petal lavender flower with code brackets at its center, surrounded by mint circuit traces on a blue-violet rounded tile.</desc>
+  <defs>
+    <linearGradient id="tile" x1="48" y1="24" x2="464" y2="488" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="256" y1="112" x2="256" y2="249" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF1FA"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="120" fill="url(#tile)"/>
+  <rect x="17" y="17" width="478" height="478" rx="119" fill="none" stroke="#FFF" stroke-opacity=".18" stroke-width="2"/>
+  <g fill="none" stroke="#99F6E4" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M176 176H132V120H100M336 176H396V128M160 288H92V352M352 288H420V344M224 366V418H170M288 366V418H338"/>
+  </g>
+  <g fill="#99F6E4">
+    <circle cx="96" cy="120" r="12"/>
+    <circle cx="396" cy="120" r="12"/>
+    <circle cx="92" cy="360" r="12"/>
+    <circle cx="420" cy="352" r="12"/>
+    <circle cx="162" cy="418" r="12"/>
+    <circle cx="346" cy="418" r="12"/>
+  </g>
+  <g fill="url(#petal)">
+    <ellipse cx="256" cy="181" rx="45" ry="68"/>
+    <ellipse cx="256" cy="181" rx="45" ry="68" transform="rotate(60 256 256)"/>
+    <ellipse cx="256" cy="181" rx="45" ry="68" transform="rotate(120 256 256)"/>
+    <ellipse cx="256" cy="181" rx="45" ry="68" transform="rotate(180 256 256)"/>
+    <ellipse cx="256" cy="181" rx="45" ry="68" transform="rotate(240 256 256)"/>
+    <ellipse cx="256" cy="181" rx="45" ry="68" transform="rotate(300 256 256)"/>
+  </g>
+  <circle cx="256" cy="256" r="57" fill="#312E81" stroke="#EDE9FE" stroke-width="7"/>
+  <g fill="none" stroke="#FFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M240 238L222 256L240 274M272 238L290 256L272 274"/>
+  </g>
+</svg>
